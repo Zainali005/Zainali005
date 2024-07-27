@@ -25,6 +25,23 @@
 
 ###
 
+<h3 align="left">💼 Skills & Technologies</h3>
+
+<p align="left">
+  <strong>Full Stack Knowledge:</strong><br>
+  - 🌐 HTML, CSS, JavaScript<br>
+  - 🔧 React, Next.js, Node.js, Express.js<br>
+  - 🗄️ MongoDB, Redis, SQL<br>
+  - 📦 Docker, GraphQL<br>
+  - 📊 Apollo Client, REST APIs<br><br>
+
+  <strong>Other Tools & Technologies:</strong><br>
+  - 🎨 Tailwind CSS, Bootstrap<br>
+  - 🛠️ Git, GitHub, GitLab<br>
+  - 🧩 Agile Methodologies, CI/CD<br>
+</p>
+
+###
 <h3 align="left">👩‍💻About Me</h3>
 
 ###
