@@ -1,61 +1,45 @@
-# Zain Ali
+<div align="center">
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+</div>
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on building scalable and efficient web applications and APIs.
+###
 
-![GitHub followers](https://img.shields.io/github/followers/zainali005?style=social) ![GitHub stars](https://img.shields.io/github/stars/zainali005?style=social) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Zain%20Ali-blue?style=flat&logo=linkedin)
+<div align="center">
+  <a href="https://www.linkedin.com/in/usama-aamir-0434b6229/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://usama7365.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=youtube&label=&color=FCFCFD&logoColor=6942C0&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+</div>
 
-## 🔭 Currently Working On
+###
 
-- Developing a [Next.js](https://nextjs.org/) application with integrated [Apollo Client](https://www.apollographql.com/) for managing [Shopify](https://www.shopify.com/) products.
-- Implementing advanced features like image uploads, user authentication, and real-time data handling.
-- Enhancing application performance and ensuring robust security measures.
+<h1 align="center">Hi UsamaDev Here 👋</h1>
 
-## 🌱 Currently Learning
+###
 
-- Advanced [GraphQL](https://graphql.org/) techniques and optimizations.
-- Server-side rendering (SSR) with [Next.js](https://nextjs.org/).
-- New features and best practices in [Tailwind CSS](https://tailwindcss.com/) and [Bootstrap](https://getbootstrap.com/).
+<div align="center">
+  <img height="200" src="https://usama7365.github.io/Portfolio/assets/images/profile-pic.jpg"  />
+</div>
 
-## 👯 Looking to Collaborate On
+###
 
-- Projects involving [React](https://reactjs.org/), [Next.js](https://nextjs.org/), and [Apollo Client](https://www.apollographql.com/).
-- Open-source initiatives that focus on improving web development tools and practices.
-- Innovative web applications and API development.
+<h3 align="left">👩‍💻About Me</h3>
 
-## 🤔 Looking for Help With
+###
 
-- Troubleshooting complex issues with CORS and API integrations.
-- Optimizing [Redis](https://redis.io/) for efficient data storage and retrieval.
-- Implementing advanced user authentication and authorization strategies.
+<p align="left">Here are some Intro about me:<br><br>- 🔭 I’m currently working as a Full Stack Engineer<br>- 🌱 I’m currently learning RUST/ROR.<br>- 👯 I’m looking to collaborate on Contribute to Open Source.<br>- 🤔 I’m looking for help with participating in Hackathons or Coding Challenges and Contributing to Open Source.<br>- 💬 With a mastery of both React and Node, this Full Stack Developer excels at building robust and scalable web applications. Armed with a deep understanding of front-end and back-end technologies, they seamlessly integrate user-friendly interfaces with powerful server-side functionalities, delivering exceptional user experiences and efficient code solutions.👨🏻‍💻✅</p>
 
-## 💬 Ask Me About
+###
 
-- Building scalable web applications with [React](https://reactjs.org/) and [Next.js](https://nextjs.org/).
-- Integrating third-party APIs and handling authentication.
-- Using [Tailwind CSS](https://tailwindcss.com/) and [Bootstrap](https://getbootstrap.com/) for modern web design.
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=usama7365&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  />
+</div>
 
-## 📫 How to Reach Me
 
-- **Email:** [zainali5002@gmail.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/zain-ali](https://www.linkedin.com/in/rjzainalii/)](https://linkedin.com/in/zain-ali)
-- **Twitter:** [@zainali](https://twitter.com/zainali)
+###
 
-## 😄 Pronouns
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
-- He/Him
-
-## ⚡ Fun Fact
-
-- I enjoy contributing to open-source projects and exploring new technologies in my spare time.
-
-## 📚 Notable Repositories
-
-Here are some of my public repositories that you might find interesting:
-
-- [**My Portfolio**](https://65c8ae95b954530f47041491--glittering-meerkat-e340be.netlify.app/) - A personal portfolio showcasing my projects and skills.
-
----
-
-Feel free to reach out if you want to connect or collaborate on exciting projects!
-
-![snake gif](https://camo.githubusercontent.com/99794108b1606ef058fdf2ec1f529b6b7b0abebf2571fea175b787e8a0db445b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)
+###
