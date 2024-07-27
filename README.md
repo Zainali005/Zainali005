@@ -48,7 +48,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 
 - I enjoy contributing to open-source projects and exploring new technologies in my spare time.
 
+## 📚 Notable Repositories
+
+Here are some of my public repositories that you might find interesting:
+
+- [**My Portfolio**](https://github.com/zainali005/portfolio) - A personal portfolio showcasing my projects and skills.
+- [**E-commerce App**](https://github.com/zainali005/ecommerce-app) - A full-stack e-commerce application built with Next.js and Apollo Client.
+- [**API for Products**](https://github.com/zainali005/products-api) - An API built with Node.js and Redis for managing product data.
+- [**React Components Library**](https://github.com/zainali005/react-components) - A library of reusable React components with Tailwind CSS.
+
 ---
 
 Feel free to reach out if you want to connect or collaborate on exciting projects!
-
