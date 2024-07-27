@@ -60,3 +60,5 @@ Here are some of my public repositories that you might find interesting:
 ---
 
 Feel free to reach out if you want to connect or collaborate on exciting projects!
+
+![snake gif](https://github.com/zainali005/zainali005/blob/output/github-contribution-grid-snake.svg)
