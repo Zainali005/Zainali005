@@ -1,12 +1,14 @@
 # Zain Ali
 
-Welcome to my GitHub profile! I'm a passionate developer specializing in web applications and APIs. I thrive on building scalable, efficient solutions and delivering exceptional user experiences.
+Welcome to my GitHub profile! I'm a passionate developer with a focus on building scalable and efficient web applications and APIs.
+
+![GitHub followers](https://img.shields.io/github/followers/zainali005?style=social) ![GitHub stars](https://img.shields.io/github/stars/zainali005?style=social) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Zain%20Ali-blue?style=flat&logo=linkedin)
 
 ## 🔭 Currently Working On
 
 - Developing a [Next.js](https://nextjs.org/) application with integrated [Apollo Client](https://www.apollographql.com/) for managing [Shopify](https://www.shopify.com/) products.
-- Implementing features like image uploads, user authentication, and real-time data handling.
-- Enhancing performance and ensuring robust security measures.
+- Implementing advanced features like image uploads, user authentication, and real-time data handling.
+- Enhancing application performance and ensuring robust security measures.
 
 ## 🌱 Currently Learning
 
@@ -17,14 +19,14 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in web app
 ## 👯 Looking to Collaborate On
 
 - Projects involving [React](https://reactjs.org/), [Next.js](https://nextjs.org/), and [Apollo Client](https://www.apollographql.com/).
-- Open-source initiatives that improve web development tools and practices.
+- Open-source initiatives that focus on improving web development tools and practices.
 - Innovative web applications and API development.
 
 ## 🤔 Looking for Help With
 
 - Troubleshooting complex issues with CORS and API integrations.
-- Optimizing [Redis](https://redis.io/) usage for efficient data management.
-- Advanced user authentication and authorization strategies.
+- Optimizing [Redis](https://redis.io/) for efficient data storage and retrieval.
+- Implementing advanced user authentication and authorization strategies.
 
 ## 💬 Ask Me About
 
@@ -44,8 +46,9 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in web app
 
 ## ⚡ Fun Fact
 
-- I enjoy contributing to open-source projects and exploring new technologies in my free time.
+- I enjoy contributing to open-source projects and exploring new technologies in my spare time.
 
 ---
 
-Feel free to adjust any details, such as links and contact information, to suit your needs!
+Feel free to reach out if you want to connect or collaborate on exciting projects!
+
