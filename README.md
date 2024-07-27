@@ -46,6 +46,9 @@
   <a href="https://nodejs.org/">
     <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Node.js" />
   </a>
+    <a href="https://angular.io/">
+    <img src="https://img.shields.io/static/v1?message=AngularJS&logo=angular&label=&color=DD0031&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="AngularJS" />
+  </a>
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/static/v1?message=Express&logo=express&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Express" />
   </a>
