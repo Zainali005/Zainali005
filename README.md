@@ -36,8 +36,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 
 ## 📫 How to Reach Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/zain-ali](https://linkedin.com/in/zain-ali)
+- **Email:** [zainali5002@gmail.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/zain-ali](https://www.linkedin.com/in/rjzainalii/)](https://linkedin.com/in/zain-ali)
 - **Twitter:** [@zainali](https://twitter.com/zainali)
 
 ## 😄 Pronouns
@@ -52,10 +52,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 
 Here are some of my public repositories that you might find interesting:
 
-- [**My Portfolio**](https://github.com/zainali005/portfolio) - A personal portfolio showcasing my projects and skills.
-- [**E-commerce App**](https://github.com/zainali005/ecommerce-app) - A full-stack e-commerce application built with Next.js and Apollo Client.
-- [**API for Products**](https://github.com/zainali005/products-api) - An API built with Node.js and Redis for managing product data.
-- [**React Components Library**](https://github.com/zainali005/react-components) - A library of reusable React components with Tailwind CSS.
+- [**My Portfolio**](https://65c8ae95b954530f47041491--glittering-meerkat-e340be.netlify.app/) - A personal portfolio showcasing my projects and skills.
 
 ---
 
