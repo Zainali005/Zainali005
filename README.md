@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+  <img height="300" src="[https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)"  />
 </div>
 
 ###
@@ -98,8 +98,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Zainali005&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  />
-</div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</div
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
