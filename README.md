@@ -21,7 +21,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Zainali005)
 ###
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/fLWQc6yB/419221382-3369866646639325-7029780229757412099-n.jpg"  />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  <img height="200" src=""  />
 </div>
 
 ###
