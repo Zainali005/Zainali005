@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"  />
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
 
 ###
@@ -21,7 +21,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Zainali005)
 ###
 <div align="center">
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="" />
   <img height="200" src=""  />
 </div>
 
