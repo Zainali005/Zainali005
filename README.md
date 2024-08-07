@@ -17,13 +17,6 @@
 
 <h1 align="center">Hi ZainDev Here 👋</h1>
 
-###
-![Profile Views](https://komarev.com/ghpvc/?username=Zainali005)
-###
-<div align="center">
-<img src="https://ibb.co/9bLMyxC](https://ibb.co/9bLMyxC" />
-  <img height="200" src=""  />
-</div>
 
 ###
 
