@@ -93,16 +93,16 @@
 <p align="left">Here are some Intro about me:<br><br>- 🔭 I’m currently working as a MERN Stack Developer<br>- 🌱 I’m currently learning GraphQL, Docker, and AI models.<br>- 👯 I’m looking to collaborate on Contributing to Open Source.<br>- 🤔 I’m looking for help with participating in Hackathons or Coding Challenges and Contributing to Open Source.<br>- 💬 With a mastery of both React and Node, this Full Stack Developer excels at building robust and scalable web applications. Armed with a deep understanding of front-end and back-end technologies, they seamlessly integrate user-friendly interfaces with powerful server-side functionalities, delivering exceptional user experiences and efficient code solutions.👨🏻‍💻✅</p>
 
 ###
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zainali005&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true"/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Zainali005&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  />
 </div>
-
-#
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zainali005&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true"/>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-#
+
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
