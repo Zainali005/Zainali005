@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/rjzainalii/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -81,12 +75,6 @@
 ###
 
 <p align="left">Here are some Intro about me:<br><br>- 🔭 I’m currently working as a MERN Stack Developer<br>- 🌱 I’m currently learning GraphQL, Docker, and AI models.<br>- 👯 I’m looking to collaborate on Contributing to Open Source.<br>- 🤔 I’m looking for help with participating in Hackathons or Coding Challenges and Contributing to Open Source.<br>- 💬 With a mastery of both React and Node, this Full Stack Developer excels at building robust and scalable web applications. Armed with a deep understanding of front-end and back-end technologies, they seamlessly integrate user-friendly interfaces with powerful server-side functionalities, delivering exceptional user experiences and efficient code solutions.👨🏻‍💻✅</p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zainali005&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  />
-</div
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -94,7 +82,5 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ###
