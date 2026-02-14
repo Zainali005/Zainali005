@@ -78,7 +78,7 @@
 
 📧 Email: **zainali5002@gmail.com**  
 💼 LinkedIn: [Profile](https://www.linkedin.com/in/rjzainalii/)  
-🌐 Portfolio: [Website](https://zainali5002.vercel.app/)
+🌐 Portfolio: [Website](https://zainalii.com/)
 
 ---
 
